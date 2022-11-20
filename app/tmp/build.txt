@@ -35,3 +35,5 @@ flask/bin/python
 2. Перейти в терминале в каталог AppleProject
 3. Запустить run.py
 4. Запустить PostmanAgent & Postman в Chrome
+
+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
