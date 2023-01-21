@@ -9,7 +9,7 @@ from datetime import datetime
 @app.route('/')
 @app.route('/index')
 def index():
-	return "Hello, World!"
+	return "Hello, World v2!"
 
 
 
